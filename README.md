@@ -1,3 +1,5 @@
 # WithTheMind
-记录日常中常用的 css、js
-2018年2月1日
+2018年2月1日<br>
+Date.prototype.toLocalString = function(){
+  retrun this.getFullYear()+'年'+(this.getMonth+1)+'月'+this.getDate()+'日'+this.getHours()+':'+this.getMinutes()+':'+this.getSeconds()
+}
