@@ -1,4 +1,4 @@
-# WithTheMind
+# 日常随记
 ## 2018年2月1日
 ### js重写date方法
 ```javascript
